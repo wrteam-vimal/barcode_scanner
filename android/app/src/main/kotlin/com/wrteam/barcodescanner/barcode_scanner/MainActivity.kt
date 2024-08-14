@@ -1,4 +1,4 @@
-package com.wrteam.barcodescanner.barcode_scanner
+package com.wrteam.barcodescanner
 
 import io.flutter.embedding.android.FlutterActivity
 
